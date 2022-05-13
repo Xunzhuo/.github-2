@@ -1,6 +1,6 @@
 <div align="center">
   
-![WasmEdge Logo](/profile/wasmedge-runtime-logo.png)
+![WasmEdge Logo](wasmedge-runtime-logo.png)
 
 WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime. It is [one of the fastest Wasm VMs](https://ieeexplore.ieee.org/document/9214403) today. WasmEdge is an official sandbox project hosted by the [CNCF](https://www.cncf.io/). Its [use cases](https://wasmedge.org/book/en/intro/use.html) include modern web application architectures (Isomorphic & Jamstack applications), microservices on the edge cloud, serverless SaaS APIs, embedded functions, blockchain smart contracts, and smart IoT devices.
   
