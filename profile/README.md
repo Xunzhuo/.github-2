@@ -34,3 +34,11 @@ WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime.
 * The [YoMo WasmEdge](https://github.com/yomorun/yomo-wasmedge-tensorflow) project demonstrates using WasmEdge functions as data processing backends for YoMo data streams.
 * The [container examples](https://github.com/second-state/wasmedge-containers-examples) project demonstrates how WasmEdge apps can be managed by container tools and k8s. | [Tutorials](https://wasmedge.org/book/en/kubernetes.html)
 
+## Contributors
+
+Thank y'all!
+
+<a href="https://github.com/wasmedge/wasmedge/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=wasmedge/wasmedge" />
+</a>
+
